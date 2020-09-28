@@ -24,7 +24,7 @@ else {
 Serial.println("normal");
 digitalWrite(11, LOW);
 digitalWrite(12, LOW);
-digitalWrite(12, LOW);
+delay(500);
 }
 
 }
